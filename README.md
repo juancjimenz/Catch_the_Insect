@@ -1,4 +1,4 @@
-#Comentarios sobre el trabajo
+##Comentarios sobre el trabajo
 
 1. en css no comprendi para que servia el object-fit y el outline
 | ` ``` css
